@@ -32,11 +32,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nupijfas-cmyk/bLocker
 NovaSweep is an advanced minesweeper assistant for Roblox with a premium‑style interface.  
 The script helps you quickly see which tiles are safe, which are mines, and automates part of the decision process so you can focus on winning instead of counting numbers.
 
-### Russian
-
-NovaSweep — продвинутый помощник для игры в мины в Roblox.  
-Скрипт анализирует поле, подсвечивает безопасные клетки и мины, а также предоставляет удобный тёмный интерфейс, который остаётся активным даже после смерти персонажа.
-
 ## Contact
 
 - Telegram: [t.me/dnekm](https://t.me/dnekm)
