@@ -1,22 +1,56 @@
-🎯 NovaSweep – Advanced Minesweeper Solver​
+# NovaSweep – Roblox Minesweeper Assistant
 
-A premium minesweeper assistant for Roblox that automatically analyzes the field, highlights safe tiles, and helps you avoid hidden mines in real time.​
-Beautiful dark GUI with smooth animations, emojis, and a clean layout optimized for long sessions.​
+> Premium assistant for Roblox mines‑style games: analyzes the field, highlights safe tiles, and helps you avoid hidden mines in real time.
 
-✨ Features:​
+![Made with Lua](https://img.shields.io/badge/made%20with-Lua-blue.svg)
+![Roblox](https://img.shields.io/badge/platform-Roblox-red.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
 
-Smart solver that plans moves and finds safe cells for you.
+## Features
 
-Highlight system for safe tiles and suspected mines.
+- Smart solver that scans the grid and finds safe moves.
+- Highlights safe (green) tiles and dangerous (red) mines.
+- Modern dark GUI with smooth animations, emojis and soft buttons.
+- Window stays after death; no need to reattach every time.
+- Toggleable highlights and controls directly inside the UI.
 
-Modern dark UI with soft buttons, icons, and smooth transitions.
+## How to use
 
-Works even after death – the window stays on the screen.
+1. Open your Roblox executor (Synapse, Fluxus, etc.).
+2. Execute this loader:
 
-📌 How to use:​
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nupijfas-cmyk/bLockermanMinesweeperRoblox/refs/heads/main/script.txt"))()
 
-Execute the NovaSweep script in your executor.
+text
 
-Wait for the grid to be detected and processed.
+3. Wait until NovaSweep detects the grid.
+4. Turn on Highlight and follow the green safe tiles.
 
-Enable highlights and follow the safe green tiles.
+## Description
+
+NovaSweep is an advanced minesweeper assistant for Roblox with a premium‑style interface.  
+The script helps you quickly see which tiles are safe, which are mines, and automates part of the decision process so you can focus on winning instead of counting numbers.
+
+### Russian
+
+NovaSweep — продвинутый помощник для игры в мины в Roblox.  
+Скрипт анализирует поле, подсвечивает безопасные клетки и мины, а также предоставляет удобный тёмный интерфейс, который остаётся активным даже после смерти персонажа.
+
+## Screenshots
+
+_Add screenshots of the GUI here (e.g. `assets/gui-main.png`, `assets/highlight-on.png`)._
+
+![Main GUI](assets/gui-mainassets/highlight-on.png
+
+text
+
+## Contact
+
+- Telegram: [t.me/dnekm](https://t.me/dnekm)
+
+## License
+
+Specify your license here, for example:
+
+- MIT License  
+- “All rights reserved – personal use only”
