@@ -21,7 +21,6 @@
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nupijfas-cmyk/bLockermanMinesweeperRoblox/refs/heads/main/script.txt"))()
 
-text
 
 3. Wait until NovaSweep detects the grid.
 4. Turn on Highlight and follow the green safe tiles.
@@ -35,14 +34,6 @@ The script helps you quickly see which tiles are safe, which are mines, and auto
 
 NovaSweep — продвинутый помощник для игры в мины в Roblox.  
 Скрипт анализирует поле, подсвечивает безопасные клетки и мины, а также предоставляет удобный тёмный интерфейс, который остаётся активным даже после смерти персонажа.
-
-## Screenshots
-
-_Add screenshots of the GUI here (e.g. `assets/gui-main.png`, `assets/highlight-on.png`)._
-
-![Main GUI](assets/gui-mainassets/highlight-on.png
-
-text
 
 ## Contact
 
