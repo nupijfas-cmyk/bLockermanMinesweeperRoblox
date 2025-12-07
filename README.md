@@ -18,8 +18,10 @@
 
 1. Open your Roblox executor (Synapse, Fluxus, etc.).
 2. Execute this loader:
-
+3. 
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nupijfas-cmyk/bLockermanMinesweeperRoblox/refs/heads/main/script.txt"))()
+```
 
 
 3. Wait until NovaSweep detects the grid.
